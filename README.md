@@ -8,7 +8,8 @@ Este projeto foi desenvolvido para analisar a eficiência logística de uma oper
 ## 📊 O Dashboard
 ![Print do Dashboard](https://github.com/AccacioNeto/analise-logistica-powerbi/blob/main/Mini%20Projeto%20Analise%20de%20Logistica%201.jpg?raw=true)
 <img width="1422" height="794" alt="image" src="https://github.com/user-attachments/assets/17d7d23a-394e-4404-b0d5-9550d359077a" />
-(https://github.com/AccacioNeto/analise-logistica-powerbi/blob/main/Mini%20Projeto%20Analise%20de%20Logistica%203.jpg?raw=true)
+<img width="1425" height="797" alt="image" src="https://github.com/user-attachments/assets/c1e0bf19-e110-4b88-8da2-6fde7a4e0f00" />
+
 
 
 ## 🛠️ Ferramentas Utilizadas
