@@ -18,9 +18,9 @@ Este projeto foi desenvolvido para analisar a eficiência logística de uma oper
 * **Logística** (Conceitos de OTIF, Lead Time e Rating)
 
 ## 📈 Principais Insights
-1. **Performance por Canal:** Identificamos que o Canal 17 possui o maior volume, porém com gargalos referente a prazos.
+1. **Performance por Canal:** Identifiquei que o Canal 17 possui o maior volume, porém com gargalos referente a prazos.
 2. **Eficiência Regional:** A equipe Norte apresenta a maior taxa de entregas antecipadas.
 3. **Rating:** Implementação de uma métrica de avaliação de vendedores baseada em estrelas para meritocracia.
 
 ## 📂 Como visualizar
-Você pode baixar o arquivo `.pbix` presente neste repositório para abrir no Power BI Desktop.
+Você pode baixar o arquivo `.pbix` com nome **"Mini projeto Analise Logistica 1 DSA"** presente neste repositório para abrir no Power BI Desktop.
